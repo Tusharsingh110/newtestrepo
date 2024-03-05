@@ -1,1 +1,2 @@
 this is a text file
+this line in added in clone1
